@@ -6,7 +6,6 @@ Icon
 ._*
 
 # Editor / IDE
-.vscode/*
 !.vscode/extensions.json
 .idea/
 *.swp
@@ -27,8 +26,6 @@ node_modules/
 dist/
 dist-ssr/
 *.local
-.env
-.env.local
 .env.*.local
 
 # Build artifacts
@@ -48,3 +45,4 @@ lerna-debug.log*
 .workbuddy/
 .codebuddy/
 .brain/
+config.bat
